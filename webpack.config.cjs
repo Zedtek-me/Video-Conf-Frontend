@@ -59,7 +59,7 @@ module.exports = {
           compress: true,
           historyApiFallback:true,
           hot:true,
-          port: 8015,
+          port: 8002,
     },
     plugins: [
         new Dotenv(),
